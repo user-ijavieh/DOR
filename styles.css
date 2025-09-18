@@ -1,0 +1,13 @@
+div p{
+    color: aqua;
+    background-color: black;
+}
+
+p {
+    color: blue;
+    background-color: red;
+}
+
+#parrafo {
+    color:purple;
+}
